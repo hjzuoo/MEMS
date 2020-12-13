@@ -3,6 +3,9 @@
 nano fab in EE in Nanjing University
 test
 1
+# Materials
+# Equipment
+# Recipe
 
 
 You can use the [editor on GitHub](https://github.com/hjzuoo/MEMS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

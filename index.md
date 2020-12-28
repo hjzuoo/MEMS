@@ -3,10 +3,10 @@
 
 # Materials
 
-| First Header  | Second Header |
+| Substrate  | Description |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Silicon | DSP thickness-500um |
+| TOX | SSP Thickness-300um |
 
 ```markdown
 Substrate

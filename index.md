@@ -17,16 +17,16 @@
 
 | Target  | Description |
 | ------------- | ------------- |
-| Ag | 50.8*6 |
-| Au | SSP Thickness-300um |
-| Cr | SSP Thickness-300um |
-| Au | SSP Thickness-300um |
-| Au | SSP Thickness-300um |
-| Ag | DSP thickness-500um |
-| Au | SSP Thickness-300um |
-| Cr | SSP Thickness-300um |
-| Au | SSP Thickness-300um |
-| Au | SSP Thickness-300um |
+| Ag | 50.8*6 2pcs|
+| Ti | 50*4 1 |
+| MgF2 | 50.8*3 3|
+| ITO | 50.8*3 |
+| SiN | 50.8*3 |
+| BN |  |
+| Al2O3 | |
+| Si |  |
+| SiO2 |  |
+| Al |  |
 
 
 

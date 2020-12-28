@@ -3,6 +3,11 @@
 
 # Materials
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ```markdown
 Substrate
 |  Substrate| Description |

@@ -17,11 +17,17 @@
 
 | Target  | Description |
 | ------------- | ------------- |
+| Ag | 50.8*6 |
+| Au | SSP Thickness-300um |
+| Cr | SSP Thickness-300um |
+| Au | SSP Thickness-300um |
+| Au | SSP Thickness-300um |
 | Ag | DSP thickness-500um |
 | Au | SSP Thickness-300um |
+| Cr | SSP Thickness-300um |
 | Au | SSP Thickness-300um |
 | Au | SSP Thickness-300um |
-| Au | SSP Thickness-300um |
+
 
 
 

@@ -15,6 +15,16 @@
 | AZ5124E |  |
 | S1813 |  |
 
+| Target  | Description |
+| ------------- | ------------- |
+| Ag | DSP thickness-500um |
+| Au | SSP Thickness-300um |
+| Au | SSP Thickness-300um |
+| Au | SSP Thickness-300um |
+| Au | SSP Thickness-300um |
+
+
+
 
 # Equipment
 # Recipe

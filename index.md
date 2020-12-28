@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
-电子学院微纳加工中心简介
-nano fab in EE in Nanjing University
-test
+
+
 1
 # Materials
 # Equipment

@@ -8,13 +8,14 @@
 | Silicon | DSP thickness-500um |
 | TOX | SSP Thickness-300um |
 
-```markdown
-Substrate
-|  Substrate| Description |
-| --- | --- |
-| Silicon | DSP thickness-500um |
-| TOX | SSP Thickness-300um |
-```
+| Resist  | Description |
+| ------------- | ------------- |
+| AZ5124E |  |
+| S1813 |  |
+| AZ5124E |  |
+| S1813 |  |
+
+
 # Equipment
 # Recipe
 
